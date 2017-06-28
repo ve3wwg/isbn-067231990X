@@ -1,0 +1,11 @@
+EPERM 1 Operation nicht die Erlaubnis gehabt
+ENOENT 2 Keine solche Datei oder Verzeichnis
+ESRCH 3 Kein solches Prozeﬂ
+EINTR 4 Unterbrochener Systemaufruf
+EIO 5 Input/Output Fehler
+ENXIO 6 Einheit nicht konfiguriert
+E2BIG 7 Argumentliste zu lang
+ENOEXEC 8 Formatfehler Exec
+EBADF 9 Falscher Dateibeschreiber
+ECHILD 10 Keine Kindprozesse
+EDEADLK 11 Hilfsmittelsystemblockade vermieden
